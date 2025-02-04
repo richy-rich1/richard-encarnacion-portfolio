@@ -8,6 +8,9 @@ This repository contains the code for my personal portfolio website, **Richard E
 - **Interactive Sections:** Includes Home, About, Skills, Projects, and Contact sections.
 - **Modern UI:** Utilizes Tailwind CSS for a clean, modern look with dynamic color gradients.
 - **Smooth Navigation:** Enjoy smooth scrolling and interactive effects throughout the site.
+![Screenshot 2025-02-03 202438](https://github.com/user-attachments/assets/d23d8d6b-6caa-4aac-8460-41575deb7855)
+
+![Screenshot 2025-02-03 202449](https://github.com/user-attachments/assets/5ffe5fb9-945b-4ff2-b797-46f637f8111c)
 
 ## Demo
 You can view the live website here: [Richard Encarnacion Tech Hub](https://yourusername.github.io/richard-encarnacion-tech-hub/)
