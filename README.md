@@ -19,4 +19,4 @@ To run the website locally, follow these steps:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/richard-encarnacion-tech-hub.git
+   git clone https://github.com/yourusername/richard-encarnacion-portfolio-hub.git
